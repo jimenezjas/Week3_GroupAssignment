@@ -24,6 +24,7 @@ public class HelloController {
     we can prevent the object from going through walls. Blue = cannot move, white = can move forward.
      */
 
+
     /*
     The example button will swap the image of the car imageView and then proceed through the maze in a predetermined path. This can be done with the Timeline class,
     which would let us program individual positions each frame to make the robot show the user where to go.
